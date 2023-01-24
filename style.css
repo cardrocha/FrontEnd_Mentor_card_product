@@ -108,7 +108,7 @@ span {
     text-decoration: line-through;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 767px) {
     body {
         padding: 10px;
     }
