@@ -26,6 +26,7 @@ body {
     display: grid;
     grid-template-columns: 1fr 1fr;
     margin-top: 50px;
+    margin-bottom: 20px;
 }
 
 .description-produtc {
@@ -76,6 +77,10 @@ button {
     font-size: 14px;
     font-weight: 700;
     cursor: pointer;
+}
+
+button:hover {
+    background-color: hsl(156, 38%, 22%);
 }
 
 .img-cart {
